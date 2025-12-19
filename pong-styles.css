@@ -5,8 +5,19 @@ Feel free to play with things like color or font
 
 html,
 body {
+  width: 100%;
+  height: 100%;
   padding: 0;
   margin: 0;
+
+}
+#wholesitebg {
+  background-image: url("bg1.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
 }
 #game {
   margin: 4px;
