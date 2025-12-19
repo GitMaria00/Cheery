@@ -56,7 +56,7 @@ export var ambientSound = new soundFile("tomorrow.mp3");
 soundArray.push(ambientSound);
 ambientSound.player.loop = true; //turn on looping
 ambientSound.player.volume.value = -17; //turn down volume
-ambientSound.player.playbackRate = 0.05; // 🔽 slow it way down
+ambientSound.player.playbackRate = 0.0005; // 🔽 slow it way down
 
 export var adventureMusic = new soundFile("silence.mp3");
 soundArray.push(adventureMusic);
