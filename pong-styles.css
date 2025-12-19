@@ -10,8 +10,6 @@ body {
   padding: 0;
   margin: 0;
 
-}
-#wholesitebg {
   background-image: url("bg1.png");
   background-size: cover;
   background-position: center;
